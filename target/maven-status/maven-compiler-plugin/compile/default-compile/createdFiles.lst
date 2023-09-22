@@ -1,0 +1,5 @@
+myClass\SingletonEager.class
+myClass\App.class
+myClass\SingletonLazyHolder$InstanceHolder.class
+myClass\SingletonLazyHolder.class
+myClass\SingletonLazy.class
